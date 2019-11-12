@@ -1,0 +1,1645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"print",
+				"print_graph"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"quick",
+				"quickcount"
+			],
+			[
+				"my",
+				"mya2"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"mya",
+				"mya1"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"int",
+				"int16_t"
+			],
+			[
+				"test",
+				"test_fn"
+			],
+			[
+				"readbyvin",
+				"readByteVectorInternalCopy"
+			],
+			[
+				"readByte",
+				"readByteVectorInternal"
+			],
+			[
+				"Der",
+				"Derived2"
+			],
+			[
+				"De",
+				"Derived2"
+			],
+			[
+				"thi",
+				"this_thread"
+			],
+			[
+				"cv",
+				"cv_lock"
+			],
+			[
+				"run",
+				"runt3"
+			],
+			[
+				"The",
+				"TestThreads"
+			],
+			[
+				"map",
+				"map2"
+			],
+			[
+				"arr",
+				"arr_1"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"not",
+				"notify_one"
+			],
+			[
+				"mT",
+				"mT2"
+			],
+			[
+				"NRF",
+				"NRF_LOG_INFO"
+			],
+			[
+				"nv",
+				"nv_is_up"
+			],
+			[
+				"nvi",
+				"nv_is_up"
+			],
+			[
+				"chec",
+				"check_power_on"
+			],
+			[
+				"po",
+				"power_on_requested"
+			],
+			[
+				"sol",
+				"sol_set"
+			],
+			[
+				"power",
+				"power_on_requested"
+			],
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"the",
+				"therm_chan"
+			],
+			[
+				"TI",
+				"TickType_t"
+			],
+			[
+				"TP",
+				"TPS65982_ADC_SUCCESS"
+			],
+			[
+				"mure",
+				"mux_reset_msg"
+			],
+			[
+				"por",
+				"portTICK_PERIOD_MS"
+			],
+			[
+				"ret",
+				"retval"
+			],
+			[
+				"fcms",
+				"FCMD_TASK"
+			],
+			[
+				"xTa",
+				"xTaskNotify"
+			],
+			[
+				"mux_c",
+				"mux_ch"
+			],
+			[
+				"remo",
+				"remote_reset"
+			],
+			[
+				"targ",
+				"target_reset"
+			],
+			[
+				"ui",
+				"uint8_t"
+			],
+			[
+				"work",
+				"schedule_work"
+			],
+			[
+				"PMmi",
+				"PMSS_MAX_IBATT"
+			],
+			[
+				"soc",
+				"soc"
+			],
+			[
+				"muxop",
+				"MUX_OPEN_CH_SIGNAL"
+			],
+			[
+				"PMSmuxt",
+				"PMSS_MUX_TASK"
+			],
+			[
+				"pmssmu",
+				"PMSS_MUX_TASK"
+			],
+			[
+				"task",
+				"tasks_get_handle"
+			],
+			[
+				"prit",
+				"printk"
+			],
+			[
+				"gt",
+				"g_mux_tbl"
+			],
+			[
+				"mux",
+				"mux_ch"
+			],
+			[
+				"tas",
+				"tasks_get_handle"
+			],
+			[
+				"MUX",
+				"MUX_MSG_IN_QUEUE_SIGNAL"
+			],
+			[
+				"xTas",
+				"xTaskNotifyWait"
+			],
+			[
+				"MUX_",
+				"MUX_OPEN_CH_SIGNAL"
+			],
+			[
+				"nrfc",
+				"nrf_ctrl"
+			],
+			[
+				"nrcst",
+				"NRF_CTRL_STATUS"
+			],
+			[
+				"nrfcrmu",
+				"nrf_ctrl_mux_tx_msg"
+			],
+			[
+				"pmsr",
+				"pmss_mux_rx_msg"
+			],
+			[
+				"u",
+				"uint8_t"
+			],
+			[
+				"nrf",
+				"nrf_ctrl"
+			],
+			[
+				"PMSS_MAX_I",
+				"PMSS_MAX_IBATT"
+			],
+			[
+				"byte",
+				"byte_msg"
+			],
+			[
+				"byt",
+				"byte_msg"
+			],
+			[
+				"vol",
+				"volt_adc"
+			],
+			[
+				"fl",
+				"flags_fg"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"bat",
+				"batt_data"
+			],
+			[
+				"BQ",
+				"BQ_SUCCESS"
+			],
+			[
+				"bqsuc",
+				"BQ_SUCCESS"
+			],
+			[
+				"bqfai",
+				"BQ_FAILURE"
+			],
+			[
+				"data",
+				"data_addr"
+			],
+			[
+				"bq27426_read",
+				"bq27426_read_block_data_csum"
+			],
+			[
+				"blo",
+				"block_access"
+			],
+			[
+				"bq",
+				"bq27426_unseal"
+			],
+			[
+				"gau",
+				"gauge_control"
+			],
+			[
+				"reg",
+				"reg_len"
+			],
+			[
+				"cmd",
+				"cmd_addr"
+			],
+			[
+				"cm",
+				"cmd_addr"
+			],
+			[
+				"bqctrl",
+				"bq27426_ctrl_cmd"
+			],
+			[
+				"bqfl",
+				"BQ27426_FLAGS_CMD"
+			],
+			[
+				"bqcon",
+				"BQ27426_CONTROL_CMD"
+			],
+			[
+				"bqby",
+				"BQ_STD_CMD_DATA_SIZE_BYTES"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "binarytree.cpp",
+			"settings":
+			{
+				"buffer_size": 1704,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "sort.cpp",
+			"settings":
+			{
+				"buffer_size": 3629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "graphs.cpp",
+			"settings":
+			{
+				"buffer_size": 2224,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "bstQuickMin.cpp",
+			"settings":
+			{
+				"buffer_size": 2043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "generalTrees.cpp",
+			"settings":
+			{
+				"buffer_size": 905,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"contents": "#include <iostream>\n#include <vector>\nusing namespace std;\n\ntypedef struct {\n  int w, h, c;\n  float *data;\n} my_data;\n\nvoid init_data(my_data d, int w, int h, int c) {\n  d.w = w;\n  d.h = h;\n  d.c = c;\n  d.data = 0;\n}\n\nmy_data create_data(int w, int h, int c) {\n  \n}\n\nint main() {\n\n\n  return 0;\n}",
+			"settings":
+			{
+				"buffer_size": 295,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"dif",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"di",
+				"Git: Diff All Files"
+			],
+			[
+				"gitgut",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"who",
+				"WhoCalled: Run indexer"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 278.0,
+		"history":
+		[
+			"0xf24",
+			"5",
+			"hex(4400)",
+			"hex(3800)",
+			"hex(1000)",
+			"0x05dc",
+			"hex(64)",
+			"20529-8192",
+			"0xaa*1.2/1023*25",
+			"0xaa*1.2/1023*5",
+			"0xaa*1.2/1023",
+			"0x1D*5*1.2/1024",
+			"0x1D*5*1.2/1023",
+			"0x1D",
+			"144.925/5",
+			"0.17*1023/1.2",
+			"(0x103 * 5 * 1.2 /1023)",
+			"hex(259)",
+			"0x1d03 & 0x3ff",
+			"0x103 * 1.2 / 1023",
+			"0x31d / 5 * 1.2 / 1023",
+			"0x31d * 5 * 1.2 / 1023",
+			"145 * 5",
+			"0.17*1023/1.2",
+			"0x31c/1023",
+			"0x31c * 1.2/1023",
+			"0x31c",
+			"0x12",
+			"0xac*1.2/1023*25",
+			"0xad*1.2/1023*25",
+			"257*1.2/1023*25",
+			"0xad01 & 0x3FF",
+			"0xad01 & 0xFF",
+			"10100/(172 * 0.1)",
+			"9900/(172 * 0.1)",
+			"0xc6",
+			"0xac",
+			"10100/(500*0.1)",
+			"0.8*10100",
+			"0.0.8*10100",
+			".2*10100",
+			"0.8*9900",
+			"0.2*9900",
+			"1920/9600",
+			"0x2774",
+			"hex(8000)",
+			"0x2774",
+			"0x127",
+			"0xac",
+			"0xceff",
+			"hex(202)",
+			"10100/500/0.1",
+			"hex(198)",
+			"9900/500/0.1",
+			"0x26AC",
+			"0x126",
+			"0x2774",
+			"0xe1e1",
+			"hex(198)",
+			"1/(500*0.1/9900)",
+			"hex(192)",
+			"1/(500*0.1/9600)",
+			"500*0.1*172/9600",
+			"9900/(172*0.1)",
+			"9600/(172*0.1)",
+			"0xac",
+			"0xe5ec",
+			"0x80",
+			"0x40",
+			"0x601",
+			"hex(64)",
+			"0x17",
+			"0x5f",
+			"0x63",
+			"hex(36)",
+			"0xbb8",
+			"3276-2730",
+			"2979-2730",
+			"0x0ccc",
+			"x0ccc",
+			"0ccc",
+			"0x0ba3",
+			"0ba3",
+			"0x16",
+			"0x0ba3",
+			"0xa30b",
+			"0x0EAF",
+			"0EAF",
+			"(0x01f0 & 0x3ff) * 25 * 1.2/1023",
+			"243 * 3 * 1.2/1023",
+			"(0x1cf3 & 0x3ff)",
+			"(0xf81c & 0x3ff) * 5 * 1.2/1023",
+			"(0xf81c & 0x3ff)",
+			"(0x1cf8 & 0x3ff)*5*1.2/1023",
+			"(0x1cf8 * 0x3ff)*5*1.2/1023",
+			"252*25*1.2/1023",
+			"bin(0x80)",
+			"0x80",
+			"(0x1cfc & 0x3ff)",
+			"(0x401c & 0x3ff)",
+			"asc2hex('ADCs')",
+			"hex('ADCs')",
+			"(0x401c & 0x3ff)",
+			"0x1c40",
+			"78*5",
+			"278*5",
+			"39 / 3.9",
+			"15 * 2.6",
+			"464/1023*1.2",
+			"2464/1023*1.2",
+			"1023/120",
+			"120/1023",
+			"15*0.256",
+			"3.8 * 0.7 / 4.8",
+			"3.9*4/15",
+			"3.7*0.5/4.8",
+			"1.9/4.8",
+			"3.8 * 0.5",
+			"3.8*4/15",
+			"4*2.8",
+			"hex(1962934272)",
+			"1<<1",
+			"1<<4",
+			"2750%32",
+			"2750%16",
+			"2750%8",
+			"2750/8",
+			"2**11"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/agujarati/Documents/Learning/C++"
+	],
+	"file_history":
+	[
+		"/home/agujarati/Documents/Learning/C++/test_map.cpp",
+		"/home/agujarati/.config/sublime-text-3/Packages/C++/C++11.sublime-build",
+		"/home/agujarati/Documents/Learning/C++/operator_overloading.cpp",
+		"/home/agujarati/Documents/Learning/C++/polymorphism.cpp",
+		"/home/agujarati/Documents/Learning/C++/complicated_constructors.cpp",
+		"/home/agujarati/Documents/Learning/C++/class_ex.cpp",
+		"/home/agujarati/Documents/Learning/C++/thread4.cpp",
+		"/home/agujarati/Documents/Learning/C++/thread.cpp",
+		"/home/agujarati/Documents/Learning/C++/multiple_inheritance.cpp",
+		"/home/agujarati/Documents/Learning/C++/mutable.cpp",
+		"/home/agujarati/Documents/Learning/C++/map_at.cpp",
+		"/home/agujarati/Documents/Learning/C++/list",
+		"/home/agujarati/Documents/Learning/C++/template_overload.cpp",
+		"/home/agujarati/Documents/Learning/C++/first_prog.cpp",
+		"/home/agujarati/Documents/Learning/C++/first_prog",
+		"/home/agujarati/Documents/Learning/C++/list.cpp",
+		"/home/agujarati/mlrepo/frameworks/native/libs/binder/Parcel.cpp",
+		"/usr/include/c++/5/bits/stl_algobase.h",
+		"/home/agujarati/Documents/Learning/C++/thread3.cpp",
+		"/home/agujarati/Documents/Learning/C++/thread2.cpp",
+		"/home/agujarati/Documents/Learning/C++/making_water.cpp",
+		"/home/agujarati/Documents/Learning/C++/thread2 -pthread",
+		"/home/agujarati/Documents/Learning/C++/c++_prog.sublime-project",
+		"/home/agujarati/Documents/Learning/C++/test.c",
+		"/home/agujarati/Documents/Learning/C++/c++_prrog.sublime-project",
+		"/home/agujarati/.config/sublime-text-3/Packages/C++/C++.sublime-build",
+		"/home/agujarati/MLGit/nova/factory/fcmd/server/handlers/common/fc_handler_charger.h",
+		"/home/agujarati/MLGit/nova/factory/fcmd/server/handlers/common/fc_handler_charger.cpp",
+		"/home/agujarati/MLGit/nova/factory/fcmd/server/handlers/platform/beltpack/fc_driver_charger_phaedra.h",
+		"/home/agujarati/MLGit/nova/factory/fcmd/server/handlers/platform/beltpack/fc_driver_charger_phaedra.cpp",
+		"/home/agujarati/MLGit/nova/factory/fcmd/server/handlers/common/beltpack/fc_handler_charger.h",
+		"/home/agujarati/MLGit/nova/factory/fcmd/server/handlers/common/beltpack/fc_handler_charger.cpp",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/Documentation/power/charger-manager.txt",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/bq27426/bq27426.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/bq27426/bq27426.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/thermistor/ntcgxx.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/bq27426/gauge.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/pmss/pmss_charging.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/freertos/source/include/timers.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/pmss/pmss.c",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/power/ml-pmss.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/pmss/pmss.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/fcmd/server/core/fc_server.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/fcmd/server/core/fc_resp_builder.c",
+		"/home/agujarati/MLGit/system/core/healthd/healthd.cpp",
+		"/home/agujarati/MLGit/device/ml/phaedra/battcheck/battcheck.c",
+		"/home/agujarati/MLGit/system/core/healthd/healthd_mode_charger.cpp",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/mux/protocol.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982d_fw.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/target/tatooine/parker.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/pmss/pmss_charging.h",
+		"/home/agujarati/Downloads/tps_gpio13_ppext_pb.h",
+		"/home/agujarati/Downloads/tps_gpio13_ppext_low.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/sol/sol.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/sol/sol.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/target/tatooine/target.c",
+		"/home/agujarati/Downloads/tps_gpio13_low.h",
+		"/home/agujarati/Downloads/tps_akash_pb.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982_adc.c",
+		"/home/agujarati/Downloads/tps_akash_low.h",
+		"/home/agujarati/Downloads/tps_gpio13_patch.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/target/tatooine/include/target.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/thermistor/ntcgxx.h",
+		"/home/agujarati/Downloads/tps_low.h",
+		"/home/agujarati/Downloads/tps_flash.h",
+		"/home/agujarati/Downloads/tps_patch.h",
+		"/home/agujarati/Downloads/tps.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982_adc.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982_comm.h",
+		"/home/agujarati/Downloads/tps_p0_1e.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/fcmd/server/handlers/fc_handler_adc.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982_ctrl.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/common/adc/adc.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/SDK/components/drivers_nrf/hal/nrf_saadc.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/common/i2c/master/i2c_master.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/console/console.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/fcmd/server/handlers/fc_handler_leds.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/target/tatooine/target_console.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982_comm.c",
+		"/home/agujarati/Documents/tps65982_fw.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/SDK/components/drivers_nrf/nrf_soc_nosd/nrf_error.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/project/grip/application/pca10040/s132/armgcc/Makefile",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/mux/mux.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/bq27426/id_atl_0001.h",
+		"/home/agujarati/MLGit/hardware/nvidia/platform/t18x/phaedra/kernel-dts/tegra186-platforms/tegra186-phaedra-pinmux-p1.dtsi",
+		"/home/agujarati/MLGit/hardware/nvidia/platform/t18x/phaedra/kernel-dts/tegra186-platforms/tegra186-phaedra-pinmux-p2b.dtsi",
+		"/home/agujarati/MLGit/hardware/nvidia/platform/t18x/phaedra/kernel-dts/tegra186-phaedra.dtsi",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/project/grip/application/main.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/port/plat_i2c_master.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/mux/mux.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/gazell_host/GazellHost.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/bq27426/id_amp_0002.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/bq27426/id_3907.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/mux/transport.c",
+		"/home/agujarati/MLGit/hardware/nvidia/platform/t18x/phaedra/kernel-dts/tegra186-platforms/tegra186-phaedra-pinmux-p0.dtsi",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/target/sergio/target.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/nrfcontrol/nrfcontrol.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/nrfcontrol/nrfcontrol.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/mux/protocol.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/mux/transport.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/mlmux/ml-mux.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/freertos/source/include/queue.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/serdes-benchmark/serdes-benchmark.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/port/platform.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/charging/tps65982/tps65982.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/nrf52_i2c/nrf52_i2c.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/workqueue/workqueue.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/workqueue/workqueue.c",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/init/main.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/dev/common/gpio/gpio.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/freertos/source/queue.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/muxcli/muxcli.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/freertos/portable/CMSIS/nrf52/portmacro_cmsis.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/freertos/portable/CMSIS/nrf51/portmacro_cmsis.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/tasks/gazell_host/mlgz_packet_handler.c",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/include/linux/ml-mux-client.h",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/project/grip/bootloader_secure/bsp/beltpack.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/port/plat_gpio.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/SDK/components/drivers_nrf/gpiote/nrf_drv_gpiote.c",
+		"/home/agujarati/MLGit/nova/hardware/letrx/source/platform/nrf52/SDK/components/drivers_nrf/hal/nrf_gpio.h",
+		"/home/agujarati/MLGit/vendor/nvidia/tegra/bootloader/partner/t18x/cboot/app/android_boot/android_boot.c",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/nrf52_i2c/nrf52_i2c.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/drivers/misc/mlmux/ml-mux.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/include/linux/ml-mux-ctrl.h",
+		"/home/agujarati/MLGit/kernel/kernel-4.4/lib/idr.c"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"false",
+			"true",
+			"false",
+			"degrees",
+			"endl",
+			"int& a[]",
+			"key",
+			".",
+			"__fill_n_a",
+			"um1",
+			"1",
+			"algo",
+			"sum_algo_samples",
+			"a1",
+			"print_string"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "binarytree.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sort.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1524,
+								1524
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "graphs.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2098,
+								2098
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1911.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bstQuickMin.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1756,
+								1756
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "generalTrees.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 214.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "c++_prog.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fcchar",
+				"server/handlers/common/beltpack/fc_handler_charger.cpp"
+			],
+			[
+				"fchachar",
+				"server/handlers/common/beltpack/fc_handler_charger.cpp"
+			],
+			[
+				"mlpms",
+				"kernel-4.4/drivers/power/ml-pmss.c"
+			],
+			[
+				"fcser",
+				"source/tasks/fcmd/server/core/fc_server.c"
+			],
+			[
+				"pmsc",
+				"source/tasks/pmss/pmss.c"
+			],
+			[
+				"pmssch",
+				"source/tasks/pmss/pmss_charging.c"
+			],
+			[
+				"pro",
+				"source/tasks/mux/protocol.c"
+			],
+			[
+				"ntcx",
+				"source/dev/thermistor/ntcgxx.c"
+			],
+			[
+				"tpsfwh",
+				"source/dev/charging/tps65982/tps65982d_fw.h"
+			],
+			[
+				"pmss.h",
+				"source/tasks/pmss/pmss.h"
+			],
+			[
+				"ntcxx",
+				"source/dev/thermistor/ntcgxx.c"
+			],
+			[
+				"sol.c",
+				"source/dev/sol/sol.c"
+			],
+			[
+				"pmss",
+				"source/tasks/pmss/pmss.c"
+			],
+			[
+				"tps.h",
+				"source/dev/charging/tps65982/tps65982d_fw.h"
+			],
+			[
+				"bq274",
+				"source/dev/charging/bq27426/bq27426.c"
+			],
+			[
+				"pmsch",
+				"source/tasks/pmss/pmss_charging.c"
+			],
+			[
+				"tpsfw",
+				"source/dev/charging/tps65982/tps65982d_fw.h"
+			],
+			[
+				"",
+				"source/dev/charging/tps65982/tps65982_adc.c"
+			],
+			[
+				"tpadc.c",
+				"source/dev/charging/tps65982/tps65982_adc.c"
+			],
+			[
+				"mux.c",
+				"source/tasks/mux/mux.c"
+			],
+			[
+				"id00",
+				"source/dev/charging/bq27426/id_amp_0002.h"
+			],
+			[
+				"id001",
+				"source/dev/charging/bq27426/id_atl_0001.h"
+			],
+			[
+				"bq27",
+				"source/dev/charging/bq27426/bq27426.c"
+			],
+			[
+				"id390",
+				"source/dev/charging/bq27426/id_3907.h"
+			],
+			[
+				"tranpo",
+				"source/tasks/mux/transport.c"
+			],
+			[
+				"targe",
+				"source/target/tatooine/target.c"
+			],
+			[
+				"tp6598",
+				"source/dev/charging/tps65982/tps65982.c"
+			],
+			[
+				"tpctr",
+				"source/dev/charging/tps65982/tps65982_ctrl.h"
+			],
+			[
+				"prot",
+				"source/tasks/mux/protocol.c"
+			],
+			[
+				"gripapmain",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"main.c",
+				"kernel-4.4/init/main.c"
+			],
+			[
+				"gripapman",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"tran",
+				"source/tasks/mux/transport.c"
+			],
+			[
+				"griapma",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"nrfconh",
+				"source/tasks/nrfcontrol/nrfcontrol.h"
+			],
+			[
+				"nrfc",
+				"source/tasks/nrfcontrol/nrfcontrol.c"
+			],
+			[
+				"nrfcon",
+				"source/tasks/nrfcontrol/nrfcontrol.c"
+			],
+			[
+				"nrfctrc",
+				"source/tasks/nrfcontrol/nrfcontrol.c"
+			],
+			[
+				"nrf52i",
+				"kernel-4.4/drivers/misc/nrf52_i2c/nrf52_i2c.c"
+			],
+			[
+				"mlmuct",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.c"
+			],
+			[
+				"mlmuxc",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux.c"
+			],
+			[
+				"idr.h",
+				"kernel-4.4/include/linux/idr.h"
+			],
+			[
+				"mlmuh",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux.h"
+			],
+			[
+				"muxctrch",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.h"
+			],
+			[
+				"mlmuxctrl",
+				"kernel-4.4/include/linux/ml-mux-ctrl.h"
+			],
+			[
+				"mlmuxct",
+				"kernel-4.4/include/linux/ml-mux-ctrl.h"
+			],
+			[
+				"mlmuxch",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.h"
+			],
+			[
+				"idr",
+				"kernel-4.4/lib/idr.c"
+			],
+			[
+				"mlmucli",
+				"kernel-4.4/include/linux/ml-mux-client.h"
+			],
+			[
+				"proto",
+				"source/tasks/mux/protocol.c"
+			],
+			[
+				"mux.h",
+				"source/tasks/mux/mux.h"
+			],
+			[
+				"tpsadc",
+				"source/dev/charging/tps65982/tps65982_adc.c"
+			],
+			[
+				"mlmuxctr",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.c"
+			],
+			[
+				"mlmuxh",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux.h"
+			],
+			[
+				"mlmuxcl",
+				"kernel-4.4/include/linux/ml-mux-client.h"
+			],
+			[
+				"nrf52i2h",
+				"kernel-4.4/drivers/misc/nrf52_i2c/nrf52_i2c.h"
+			],
+			[
+				"nrf52i2c",
+				"kernel-4.4/drivers/misc/nrf52_i2c/nrf52_i2c.c"
+			],
+			[
+				"mux",
+				"source/tasks/mux/mux.c"
+			],
+			[
+				"pmss.c",
+				"source/tasks/pmss/pmss.c"
+			],
+			[
+				"mlmuxctc",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.c"
+			],
+			[
+				"gripappmain",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"mlmuctrc",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.c"
+			],
+			[
+				"theml",
+				"kernel-4.4/drivers/thermal/therm-mlmux.c"
+			],
+			[
+				"mlmux",
+				"kernel-4.4/drivers/misc/mlmux/ml-mux-ctrl-chan.c"
+			],
+			[
+				"targ",
+				"source/target/tatooine/target.c"
+			],
+			[
+				"mlpm",
+				"kernel-4.4/drivers/power/ml-pmss.c"
+			],
+			[
+				"battch",
+				"battcheck/battcheck.c"
+			],
+			[
+				"id3907",
+				"source/dev/charging/bq27426/id_3907.h"
+			],
+			[
+				"tps",
+				"source/dev/charging/tps65982/tps65982.c"
+			],
+			[
+				"idatl",
+				"source/dev/charging/bq27426/id_atl_0001.h"
+			],
+			[
+				"bq2",
+				"source/dev/charging/bq27426/bq27426.c"
+			],
+			[
+				"gripmain",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"work",
+				"kernel-4.4/Documentation/workqueue.txt"
+			],
+			[
+				"gazho",
+				"source/tasks/gazell_host/GazellHost.c"
+			],
+			[
+				"tasu",
+				"source/tasks/task_utils.h"
+			],
+			[
+				"fcmdser",
+				"source/tasks/fcmd/server/core/fc_server.c"
+			],
+			[
+				"muxcli",
+				"source/tasks/muxcli/muxcli.c"
+			],
+			[
+				"mlmuxcli",
+				"source/tasks/muxcli/muxcli.c"
+			],
+			[
+				"mucl",
+				"kernel-4.4/include/linux/ml-mux-client.h"
+			],
+			[
+				"bq",
+				"source/dev/charging/bq27426/bq27426.c"
+			],
+			[
+				"heal",
+				"healthd/healthd.cpp"
+			],
+			[
+				"batt",
+				"battcheck/battcheck.c"
+			],
+			[
+				"tpsad",
+				"source/dev/charging/tps65982/tps65982_adc.c"
+			],
+			[
+				"mlpmss",
+				"kernel-4.4/drivers/power/ml-pmss.c"
+			],
+			[
+				"tps6598",
+				"source/dev/charging/tps65982/tps65982.c"
+			],
+			[
+				"fchan",
+				"source/tasks/fcmd/handlers/fc_handler_battery.c"
+			],
+			[
+				"powersubatt",
+				"kernel-4.4/Documentation/devicetree/bindings/power_supply/ab8500/charger.txt"
+			],
+			[
+				"battc",
+				"battcheck/battcheck.c"
+			],
+			[
+				"tasut",
+				"source/tasks/task_utils.h"
+			],
+			[
+				"therm",
+				"kernel-4.4/drivers/thermal/therm-mlmux.c"
+			],
+			[
+				"freero",
+				"source/freertos/config/FreeRTOSConfig.h"
+			],
+			[
+				"gzhostc",
+				"source/tasks/gazell_host/GazellHost.c"
+			],
+			[
+				"tasutilh",
+				"source/tasks/task_utils.h"
+			],
+			[
+				"tasutih",
+				"source/tasks/task_utils.h"
+			],
+			[
+				"griappma",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"fcmd",
+				"source/tasks/fcmd/server/core/fc_cmd_parser.c"
+			],
+			[
+				"pmss.",
+				"source/tasks/pmss/pmss.c"
+			],
+			[
+				"nrfcont",
+				"source/tasks/nrfcontrol/nrfcontrol.c"
+			],
+			[
+				"gripapmak",
+				"source/project/grip/application/pca10040/s132/armgcc/Makefile"
+			],
+			[
+				"thermml",
+				"kernel-4.4/drivers/thermal/therm-mlmux.c"
+			],
+			[
+				"gazh",
+				"source/tasks/gazell_host/GazellHost.c"
+			],
+			[
+				"gripapma",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"gripapmai",
+				"source/project/grip/application/main.c"
+			],
+			[
+				"make",
+				"kernel-4.4/Makefile"
+			],
+			[
+				"mlp",
+				"kernel-4.4/drivers/power/ml-pmss.c"
+			],
+			[
+				"gripappm",
+				"source/project/grip/application/pca10040/s132/armgcc/Makefile"
+			],
+			[
+				"thermmu",
+				"kernel-4.4/drivers/thermal/therm-mlmux.c"
+			],
+			[
+				"kerneldevice",
+				"kernel-4.4/Documentation/devices.txt"
+			],
+			[
+				"gripappmake",
+				"source/project/grip/application/pca10040/s132/armgcc/Makefile"
+			],
+			[
+				"gripmak",
+				"source/project/grip/bootloader_secure/pca10040/armgcc/Makefile"
+			],
+			[
+				"fbat",
+				"source/tasks/fcmd/server/handlers/fc_handler_battery.c"
+			],
+			[
+				"pmssh",
+				"source/tasks/pmss/pmss.h"
+			],
+			[
+				"nrfi2",
+				"kernel-4.4/drivers/misc/nrf52_i2c/nrf52_i2c.c"
+			],
+			[
+				"sdkcon",
+				"source/project/grip/application/pca10040/s132/config/sdk_config.h"
+			],
+			[
+				"tra",
+				"source/tasks/mux/transport.c"
+			],
+			[
+				"nrfdtwi",
+				"source/platform/nrf52/SDK/components/drivers_nrf/twi_master/nrf_drv_twi.c"
+			],
+			[
+				"target",
+				"source/target/tatooine/target.c"
+			],
+			[
+				"targetc",
+				"source/target/tatooine/target_console.c"
+			],
+			[
+				"id",
+				"source/dev/charging/bq27426/id_3907.h"
+			],
+			[
+				"fchanb",
+				"source/tasks/fcmd/server/handlers/fc_handler_battery.c"
+			],
+			[
+				"id39",
+				"source/dev/charging/bq27426/id_3907.h"
+			],
+			[
+				"gau",
+				"source/dev/charging/bq27426/gauge.c"
+			],
+			[
+				"gaug",
+				"source/dev/charging/bq27426/gauge.c"
+			],
+			[
+				"pms",
+				"source/tasks/pmss/pmss.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Sublime/stm32.sublime-project"
+			],
+			[
+				"a",
+				"~/Documents/Sublime/TestAutomation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
